@@ -1,0 +1,39 @@
+.position-relative{
+    position: relative;
+}
+
+.align-self-center{
+    align-self: center;
+}
+
+.display-block{
+    display:block ;
+}
+
+.display-inline-block{
+    display: inline-block;
+}
+
+
+
+ /* Medium devices (tablets, 768px and up) */
+/* @media (min-width: 768px) { ... } */
+
+/* Small devices */
+@media (max-width: 768px) { 
+
+
+
+
+}
+
+
+
+
+
+  /* xtra small devices (landscape phones, 576px and up) */
+@media (max-width: 576px) {
+    .menor-mayor {
+        display: none;
+    }
+}
